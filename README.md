@@ -83,4 +83,4 @@ fim_relatorio
 
 ## Vídeo explicação
 
-O vídeo pode ser encontrado no link: 
+O vídeo pode ser encontrado no link: https://youtu.be/oJf9t7mYBfc
