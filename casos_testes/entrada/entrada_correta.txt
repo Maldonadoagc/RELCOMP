@@ -1,0 +1,30 @@
+relatorio
+evento : Brasileirao
+data : 13/09/2024
+modalidade : Futebol_Masculino {
+    posicao : 1
+    participantes : Botafogo
+    recorde : "50"
+    posicao : 2
+    participantes : Fortaleza
+    recorde : "48"
+    posicao : 3
+    participantes : Palmeiras
+    recorde : "47"
+    posicao : 4
+    participantes : Flamengo
+    recorde : "44"
+    posicao : 5
+    participantes : Cruzeiro
+    recorde : "41"
+    posicao : 6
+    participantes : SPFC
+    recorde : "41"
+    posicao : 7
+    participantes : Bahia
+    recorde : "39"
+    posicao : 8
+    participantes : Internacional
+    recorde : "35"
+}
+fim_relatorio

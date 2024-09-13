@@ -1,0 +1,17 @@
+relatorio
+evento : Olimpiadas
+data : 16/08/2009
+modalidade : Corrida_100m {
+    posicao : 1
+    participantes : Usain_Bolt
+    recorde : "9.58 segundos"
+    medalha : ouro
+    posicao : 2
+    participantes : Tyson_Gay
+    medalha : ouro
+    posicao : 3
+    participantes : Asafa_Powell
+    medalha : bronze
+}
+observacoes : "Recorde mundial."
+fim_relatorio
