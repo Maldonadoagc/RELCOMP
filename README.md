@@ -11,6 +11,7 @@ Este projeto consiste em um compilador completo para uma linguagem específica q
 - [Compilação](#compilação)
 - [Execução](#execução)
 - [Exemplo](#exemplo)
+- [Video](#vídeo-explicação)
   
 
 ## Visão Geral
@@ -79,3 +80,7 @@ modalidade : Podio_100m_Masculino {
 }  
 observacoes : "Recorde mundial."  
 fim_relatorio  
+
+## Vídeo explicação
+
+O vídeo pode ser encontrado no link: 
