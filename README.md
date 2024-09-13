@@ -1,4 +1,4 @@
-# Compilador de Linguagem para Relatórios de Competições Esportivas
+# Relatórios de Competições Esportivas
 
 Este projeto consiste em um compilador completo para uma linguagem específica que gera relatórios de competições esportivas em formato HTML. O compilador é implementado utilizando Java e ANTLR4. E serviu como trabalho para a matéria de Construção de Compiladores ministrada pelo Professor Daniel Lucrédio.
 
